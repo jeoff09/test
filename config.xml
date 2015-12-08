@@ -69,4 +69,7 @@
     </platform>
     <engine name="ios" version="3.8.0" />
     <engine name="android" version="3.7.2" />
+    <feature name="Camera">
+        <param name="id" value="org.apache.cordova.camera" />
+    </feature>
 </widget>
